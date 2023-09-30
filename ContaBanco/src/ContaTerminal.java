@@ -6,7 +6,7 @@ public class ContaTerminal {
     
     static Scanner scannerInput = new Scanner(System.in).useLocale(Locale.US);
 
-    public static void main(String[] args) throws Exception {       
+    public static void main(String[] args) {       
             
         int numero = obterNumeroAgencia();
 
